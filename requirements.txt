@@ -1,0 +1,19 @@
+# Port Scanner - ACTIVE Requirements
+
+# ========================
+# ACTIVE DEPENDENCIES
+# ========================
+# (None currently - uses Python standard libraries)
+
+# ========================
+# FUTURE/OPTIONAL (uncomment when needed):
+# ========================
+python-nmap==0.7.1
+colorama==0.4.6
+pyfiglet==0.8.post1
+
+# ========================
+# DEVELOPMENT (testing/formatting):
+# ========================
+# pytest==8.1.1
+# black==24.2.0
