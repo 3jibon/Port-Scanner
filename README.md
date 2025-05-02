@@ -8,7 +8,7 @@ This tool is intended for educational and ethical use only. Always get proper au
 
 A lightweight yet powerful Python port scanning tool for network diagnostics and security awareness. Built with `socket` for reliable TCP port detection.
 
-![Port Scanner Terminal Demo](/Port%20Scanner/asset/image.png)
+![Port Scanner Terminal Demo](/asset/image.png)
 
 ## 🚀 Features
 
