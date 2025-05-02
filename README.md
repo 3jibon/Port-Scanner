@@ -1,4 +1,6 @@
 # 🔍 Port Scanner by MD Farhan Uddin Jibon
+### Disclaimer:
+This tool is intended for educational and ethical use only. Always get proper authorization before scanning networks or devices.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
