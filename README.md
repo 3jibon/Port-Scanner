@@ -28,4 +28,8 @@ git clone https://github.com/your-username/Port-Scanner.git
 cd Port-Scanner
 
 # Run the scanner
+<<<<<<< HEAD
 python port_scanner.py
+=======
+python port_scanner.py
+>>>>>>> 615ce66339ca234795e37f87eafb5351d35490bf
