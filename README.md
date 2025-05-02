@@ -22,14 +22,4 @@ A lightweight yet powerful Python port scanning tool for network diagnostics and
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Port-Scanner.git
-
-# Navigate to project directory
-cd Port-Scanner
-
-# Run the scanner
-<<<<<<< HEAD
-python port_scanner.py
-=======
-python port_scanner.py
->>>>>>> 615ce66339ca234795e37f87eafb5351d35490bf
+git clone https://github.com/3jibon/Port-Scanner.git
